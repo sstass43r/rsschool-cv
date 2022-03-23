@@ -1,0 +1,28 @@
+# Tatarskiy Stanislav
+sstass43r@mail.ru
+
+## About me
+Gain knowledge and experience. Strengths: perseverance). I have been working in IT for a year, this is website layout, cms I mainly use joomla. 
+
+## Skills
+* html 
+* css 
+* base js,
+* Figma, 
+* joomla,
+* Git, GitHub
+* adaptive design
+
+## Code example
+function multiply(a, b){
+ return a * b;
+}
+
+## Experience
+http://xn----7sbbdcvot7aicj1accn4onb.xn--p1ai/
+
+## Education
+Secondary professional education (colleges)
+
+## Languages
+English Basic
